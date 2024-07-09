@@ -1,0 +1,14 @@
+{
+  "name": "perchik",
+  "version": "1.0.0",
+  "main": "app/index.js",
+  "scripts": {
+    "npx": "npx tsc app/type.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "typescript": "^5.5.3"
+  }
+}
